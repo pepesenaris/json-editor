@@ -1,3 +1,7 @@
+## NOTICE
+
+This contains custom changes in the `dist/jsoneditor.js` file taken from the local copy of the project.
+
 JSON Editor
 ===========
 
